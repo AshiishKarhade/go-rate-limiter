@@ -20,8 +20,8 @@ This is a simple API gateway implemented in Go that supports user registration, 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/go-api-gateway-with-redis.git
-cd go-api-gateway-with-redis
+git clone https://github.com/AshiishKarhade/go-rate-limiter.git
+cd go-rate-limiter
 ```
 
 ### 2. Install Dependencies
